@@ -1,7 +1,7 @@
 
 
-- 🔭 Atualmente estudo Python para automatização, bots e banco de dados.
-- 🌱 Estudando Python, C#, C, JavaScript e HTML
+- 🔭 Atualmente estudo Python para automação, banco de dados e bots. Também estudo JavaScript orientado a objetos.
+- 🌱 Estudando Python, C, JavaScript.
 - 📫 Contate-me no email: lucassmarquess123@gmail.com
 
 <div align="center">
