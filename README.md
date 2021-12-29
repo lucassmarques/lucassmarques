@@ -1,4 +1,5 @@
 
+## Olá!
 
 - 🔭 Atualmente estudo Python para automação, banco de dados e bots. Também estudo JavaScript orientado a objetos.
 - 🌱 Estudando Python, C, JavaScript.
