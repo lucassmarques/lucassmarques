@@ -1,8 +1,8 @@
 
 ## Olá!
 
-- 🔭 Atualmente estudo Python para automação, banco de dados e bots. Também estudo JavaScript orientado a objetos.
-- 🌱 Estudando Python, C, JavaScript.
+- 🔭 Desenvolvedor FullStack, usando as tecnologias Angular e Nodejs.
+- 🌱  Estudando Angular, Nodejs, Programação orientada a objetos.
 - 📫 Contate-me no email: lucassmarquess123@gmail.com
 
 <div align="center">
