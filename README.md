@@ -2,15 +2,15 @@
 ## Olá!
 
 - 🔭 Desenvolvedor FrontEnd, trabalhando com a Framework Angular.
-- 🌱  Estudando Angular, Nodejs, Programação orientada a objetos com Typescript.
+- 🌱 Estudando Angular, Nodejs, Programação orientada a objetos com Typescript.
 - 📫 Contate-me no email: lucassmarquess123@gmail.com
-
-<div align="center">
+<br><br>
+<div  style="display:inline-block; padding-left: 20px;">
   <a href="https://github.com/Lucao-ux">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassmarques&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassmarques&layout=compact&langs_count=7&theme=omni"/>
 </div>
-  
-<div style="display: inline_block"><br>
+  <br>
+<div style="display:inline-block; padding-left: 20px;"><br>
   <img align="center" alt="Luc-Ae" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Luc-google" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Luc-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
