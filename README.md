@@ -1,6 +1,6 @@
 
 ## Olá!
-
+=======
 - 🔭 Desenvolvedor FrontEnd, trabalhando com a Framework Angular.
 - 🌱 Estudando Angular, Nodejs, Programação orientada a objetos com Typescript.
 - 📫 Contate-me no email: lucassmarquess123@gmail.com
