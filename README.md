@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor **Frontend Salesforce**, com experiência em **Vue.js, ISML, SCSS**, configuração de **Business Manager** e **Next.js**.  
 🚀 Atualmente aprofundando em **Node.js** e na **trilha oficial Salesforce** para me tornar Fullstack.  
-📫 Contato: [lucassmarquess123@gmail.com](mailto:lucassmarquess123@gmail.com) | [LinkedIn](https://linkedin.com/in/SEU-USUARIO)  
+📫 Contato: [lucassmarquess123@gmail.com](mailto:lucassmarquess123@gmail.com) | [LinkedIn](https://www.linkedin.com/in/lucas-marques-308915209/)  
 
 ---
 
